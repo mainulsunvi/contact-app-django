@@ -42,7 +42,3 @@ go to this link to see the running application [localhost:8000/contacts/](http//
 
 ## gif
 ![Django contact app Demo](/demo/demo.gif)
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
