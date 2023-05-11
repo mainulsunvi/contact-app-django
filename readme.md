@@ -41,7 +41,7 @@ python3 manage.py runserver
 go to this link to see the running application [localhost:8000/contacts/](http//:localhost:8000/contacts/)
 
 ## gif
-![Django contact app Demo](/demo/output.png)
+![Django contact app Demo](/demo/demo.gif)
 
 ## License
 
