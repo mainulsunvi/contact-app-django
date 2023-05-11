@@ -38,7 +38,7 @@ python3 manage.py runserver
 ```
 ### Port and URL
 
-go to this link to see the running application [localhost:8000/contacts/](http//:localhost:8000/contacts/)
+go to this link to see the running application **localhost:8000/contacts/**
 
 ## gif
 ![Django contact app Demo](/demo/output.png)
